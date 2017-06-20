@@ -1,2 +1,2 @@
 # RN-in-action
-This is the sample project for OneBeltOneRoad program
+This is the sample project for OneBeltOneRoad program.
